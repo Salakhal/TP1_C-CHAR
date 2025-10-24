@@ -43,7 +43,7 @@ Solde après retrait : 300.0
 
 Voici un exemple de l'exécution du programme (screenshot) :
 
-![Exécution du programme](execution.ex1.tp1.PNG)
+![Exécution du programme](execution.PNG)
 
 
 
