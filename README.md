@@ -1,5 +1,5 @@
 #  TP1 : Définition des Classes  
-### Cours : Programmation Orientée Objet – C++
+
 
 ---
 
@@ -43,7 +43,8 @@ Solde après retrait : 300.0
 
 Voici un exemple de l'exécution du programme (screenshot) :
 
-![Exécution du programme](execution.PNG)
+![Exécution du programme](execution.ex1.tp1.PNG)
+
 
 
 ##  Exercice 2 – Gestion d’un Catalogue de Livres  
@@ -80,7 +81,9 @@ Titre : Programmation Orientée Objet, Auteur : Jean Dupont, Année : 2020
 
 Voici un exemple de l'exécution du programme (screenshot) :
 
-![Exécution du programme](execution.PNG)
+![Exécution du programme](execution.ex2.tp1.PNG)
+
+
 
 
 #  TP2 : Encapsulation  
@@ -93,6 +96,7 @@ Ce TP a pour but de **maîtriser l'encapsulation** en C++, c’est-à-dire :
 - créer des **méthodes publiques** pour manipuler les objets de manière sécurisée  
 
 ---
+
 
 #  Exercice 1 : Gestion d’un étudiant
 
@@ -122,7 +126,8 @@ Moyenne : 16
 
 Voici un exemple de l'exécution du programme (screenshot) :
 
-![Exécution du programme](execution.PNG)
+![Exécution du programme](exercice1.execution.tp2.PNG)
+
 
 
 
@@ -161,7 +166,9 @@ Filière : Génie Informatique
 
 Voici un exemple de l'exécution du programme (screenshot) :
 
-![Exécution du programme](execution.PNG)
+![Exécution du programme](exercice2.execution.tp2.PNG)
+
+
 ## UML – Association
 
 ``` lua
